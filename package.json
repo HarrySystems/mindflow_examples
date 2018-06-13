@@ -1,0 +1,22 @@
+{
+  "name": "mindflow_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excel_read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysystems/mindflow_examples.git"
+  },
+  "author": "HarrySystems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysystems/mindflow_examples/issues"
+  },
+  "homepage": "https://github.com/harrysystems/mindflow_examples#readme",
+  "dependencies": {
+    "mindflow_suite": "^1.0.2"
+  }
+}
